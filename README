@@ -1,6 +1,22 @@
 QA Challenge for intern candidates
-For the creation of this challenge, I decided to develop a simple Todo List project with few functionalities. Users will be able to add tasks, mark them as completed and delete tasks. 
+For the creation of this challenge, I decided to develop a simple Todo List project with few functionalities. 
+Users will be able to add tasks, mark them as completed and delete tasks. 
 
-To perform all automation test cases I decided to use Cypress, I installed the program locally. Due the fact that the project is very reduced I decided to automate all test cases.
+Use case 1: Add task
+User introduce a task name 
+User clicks the button with the "+" symbol to add the task
+The task is displayed in the task list and complete and delete options appear
 
+Use case 2: Complete task
+Once the user has previusly completed all steps from "Use case 1"
+User clicks complete button
+The task change it's style adding a slash in the task's name which indicates a completed task 
+
+Use case 3
+Once the user has previusly completed all steps from "Use case 1"
+Users clicks delete button
+The tasks is deleted from the task list
+
+To perform all automation test cases I decided to use Cypress, I installed the program locally. 
+Due the fact that the project is very reduced I decided to automate all test cases.
 Even though I haven’t used Cypress before I am positive about having completed the task successfully.
