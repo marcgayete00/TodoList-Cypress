@@ -1,0 +1,6 @@
+QA Challenge for intern candidates
+For the creation of this challenge, I decided to develop a simple Todo List project with few functionalities. Users will be able to add tasks, mark them as completed and delete tasks. 
+
+To perform all automation test cases I decided to use Cypress, I installed the program locally. Due the fact that the project is very reduced I decided to automate all test cases.
+
+Even though I haven’t used Cypress before I am positive about having completed the task successfully.
